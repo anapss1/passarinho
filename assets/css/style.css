@@ -20,7 +20,7 @@ body{
 .cabecalho__logo{
 
     margin-bottom: 50px;
-    
+
 }
 
 .cabecalho__logo img{
@@ -125,10 +125,12 @@ body{
 }
 
 .conteudoPrincipal__tweet{
+
     padding: 20px 32px;
     display: flex;
     align-items: flex-start;
     border-bottom: 1px solid #e7ecf0;
+    
 }
 
 .tweet__fotoPerfil{
